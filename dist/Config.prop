@@ -1,0 +1,4 @@
+ControlPort=8080
+LocalAddress=127.0.0.1
+DATABASE_ROOT=root
+DATABASE_PW=
